@@ -1,6 +1,6 @@
-# RTDS GUI & Control (Robotics Module 1)
+# ARM Discovery STM32F407 Trainer Module
 
-Welcome to the GitHub repository for our RTDS GUI & Control (Robotics Module 1), part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
+Welcome to the GitHub repository for our ARM Discovery STM32F407 Trainer Module, part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
 
 ## Team Members
 
