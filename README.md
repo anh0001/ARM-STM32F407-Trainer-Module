@@ -4,9 +4,9 @@ Welcome to the GitHub repository for our ARM Discovery STM32F407 Trainer Module,
 
 ## Team Members
 
-- Member 1: [Marjoko Panji Santoso] - [4121600039]
-- Member 2: [Johan Roi Setiawan] - [4121600051]
-- ... (Add all team members with their IDs)
+- Kelas B MK 2023
+  - Member 1: Marjoko Panji Santoso - 4121600039
+  - Member 2: Johan Roi Setiawan - 4121600051
 
 ## Repository Structure
 
